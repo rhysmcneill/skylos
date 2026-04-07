@@ -1,5 +1,19 @@
 ## Changelog
 
+## [4.3.0](https://github.com/rhysmcneill/skylos/compare/v4.2.1...v4.3.0) (2026-04-07)
+
+
+### Features
+
+* **cli:** add explicit project selection flow ([#171](https://github.com/rhysmcneill/skylos/issues/171)) ([3eb3001](https://github.com/rhysmcneill/skylos/commit/3eb30014c06cc5b4e96ed599298cc551010a7d3a))
+
+
+### Bug Fixes
+
+* **core:** honor root ignores and actionable clean edits ([#165](https://github.com/rhysmcneill/skylos/issues/165)) ([358dd1f](https://github.com/rhysmcneill/skylos/commit/358dd1f4a18f523fb0a4301ab7f15c43d8febfb0))
+* **release:** align release-please bootstrap with 4.2.1 ([8fb330f](https://github.com/rhysmcneill/skylos/commit/8fb330fb0f8905defa7574b919be04db3188b3fe))
+* **ts:** align Next.js convention coverage ([#164](https://github.com/rhysmcneill/skylos/issues/164)) ([05264b2](https://github.com/rhysmcneill/skylos/commit/05264b2e32a440aad2549dd74ce66c7b7cc54176))
+
 ## [Unreleased]
 
 ### Added
